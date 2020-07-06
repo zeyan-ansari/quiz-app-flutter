@@ -1,0 +1,88 @@
+[
+    {
+        "1": "What is Flutter? What is Flutter?",
+        "2": "What is Dart and why does Flutter use it? What is Dart and why does Flutter use it?",
+        "3": "What is a \"widget\" and mention its importance in Flutter? What is a \"widget\" and mention its importance in Flutter?",
+        "4": "How many types of widgets are there in Flutter?",
+        "5": "What is the difference between \"main()\" and \"runApp()\" functions in Flutter?",
+        "6": "What is an App state? ",
+        "7": "What are the different build modes in Flutter? What are the different build modes in Flutter?",
+        "8": "Differentiate StatelessWidget and StatefulWidget?",
+        "9": "Why do we pass functions to widgets?",
+        "10": "Differentiate between Hot Restart and Hot Reload? Differentiate between Hot Restart and Hot Reload?"
+    },
+    {
+        "1": {
+            "a": "open-source UI toolkit",
+            "b": "application",
+            "c": "programming language",
+            "d": "toolkit"
+        },
+        "2": {
+            "a": "Dart is an object-oriented programming language",
+            "b": "applications for desktop",
+            "c": "type",
+            "d": "find"
+        },
+        "3": {
+            "a": "Widgets are basically the UI components in Flutter.",
+            "b": " AOT",
+            "c": "void",
+            "d": "function"
+        },
+        "4": {
+            "a": "StatelessWidget",
+            "b": "print",
+            "c": "println",
+            "d": "stderr"
+        },
+        "5": {
+            "a": "main ()",
+            "b": "typeof",
+            "c": "type",
+            "d": "find"
+        },
+        "6": {
+            "a": "application state ",
+            "b": "def",
+            "c": "void",
+            "d": "function"
+        },
+        "7": {
+            "a": "Debug",
+            "b": "typeof",
+            "c": "type",
+            "d": "find"
+        },
+        "8": {
+            "a": "Widget state creates ONLY ONCE",
+            "b": "def",
+            "c": "void",
+            "d": "function"
+        },
+        "9": {
+            "a": "Functions are first class objects in Dart",
+            "b": "typeof",
+            "c": "type",
+            "d": "find"
+        },
+        "10": {
+            "a": "Hot Reload takes less time then Hot restart. ",
+            "b": "def",
+            "c": "void",
+            "d": "function"
+        }
+    },
+    {
+        "1": "open-source UI toolkit",
+        "2": "Dart is an object-oriented programming language",
+        "3": "Widgets are basically the UI components in Flutter.",
+        "4": "StatelessWidget",
+        "5": "main ()",
+        "6": "application state ",
+        "7": "Debug",
+        "8": "Widget state creates ONLY ONCE",
+        "9": "Functions are first class objects in Dart",
+        "10": "Hot Reload takes less time then Hot restart. "
+    }
+]
